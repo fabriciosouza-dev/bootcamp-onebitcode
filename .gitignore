@@ -19,5 +19,11 @@
 
 .byebug_history
 
+/.idea
+
+/config/database.yml
+
+Gemfile.lock
+
 # Ignore master key for decrypting credentials and more.
 /config/master.key
